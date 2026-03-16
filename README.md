@@ -41,8 +41,6 @@ Key columns include:
 
 ## 📷 Dashboard Preview
 
-Dashboard Preview
-
 
 ---
 
@@ -69,7 +67,7 @@ Aspiring **Data Analyst / Business Intelligence Analyst**
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star and lets connect our ideas on LinkedIn!
+⭐ If you found this project helpful, consider giving it a star and lets connect our ideas on LinkedIn : https://www.linkedin.com/in/mr-goutam-sharma/
 
 
 
